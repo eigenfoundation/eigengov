@@ -195,7 +195,7 @@ implementation; and ultimately, (vi) the Council in its current form
 should be made obsolete, reflecting our commitment to responsible
 decentralization and protocolized governance over time.
 
-##**Exhibit A**
+## **Exhibit A**
 
 ### **EigenLayer Core Contracts**
 
