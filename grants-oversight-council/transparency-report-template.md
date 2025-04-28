@@ -16,7 +16,7 @@
 | **Status** | *Draft / Submitted* |
 | **References** | *Link to Initiative Forum Post* |
 
-This document is an official communication between the Grant Oversight Council and the EIgenLayer community. It aims to increase transparency within the Eigenlayer ecosystem regarding Community Initiative grant allocations.
+This document is an official communication between the Grant Oversight Council and the EigenLayer community. It aims to increase transparency within the Eigenlayer ecosystem regarding Community Initiative grant allocations.
 
 # Transparency Report Overview
 
