@@ -8,6 +8,6 @@ This repository is the home for all EigenGov related documentation, resources, a
 
 #### 💡 ACTIVE COUNCILS:
 
-* [Protocol Council](/grants-oversight-council)
-* [Grants Oversight Council](/protocol-council)
+* [Protocol Council](/protocol-council))
+* [Grants Oversight Council](/grants-oversight-council)
 
