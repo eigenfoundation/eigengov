@@ -15,7 +15,7 @@ As part of the initial council incubation period, the Initiative, Budget & Ops, 
 ## Grants Governance Process
 The grant proposal process for Season 1 is as follows:
 
-![](assets/process/Grants Oversight Council_Process_V2-Final_background.png)
+![](https://github.com/eigenfoundation/eigengov/blob/main/grants-oversight-council/assets/process/Grants%20Oversight%20Council_Process_V2-Final_background.png)
 
 0. Prior to the start of a season, the Foundation introduces the vision for Community Initiative grant allocations over the course of the season, which includes annual top-level directional goals **(Initiatives)** and spending cap **(Budget)**. 
 
