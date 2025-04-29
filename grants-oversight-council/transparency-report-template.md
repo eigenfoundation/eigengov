@@ -1,6 +1,6 @@
   
 ***What is a Grant Initiative Transparency Report?***  
-*A Transparency Report outlines a Grant Team’s retrospective on initiative grant allocations distributed in the season.*
+*A Transparency Report outlines a Grants Team’s retrospective on initiative grant allocations distributed in the season.*
 
 *The Transparency Report will have two versions of the same report to allow for the exclusion of information that may not yet be ready for public announcement.*
 
@@ -76,7 +76,7 @@ The Grant Oversight Council reviewed \[NAME OF REPORT\]. \[x/3\] Council members
 
 \[Summary of Evaluation\]
 
-* Whether this Initiative is aligned to the greater annual Strategy  
+* Whether the grants are aligned to the greater annual Initiatives  
 * Assessment on whether the Grant Team has made progress / met the Initiative criteria they set out to achieve  
 * Brief evaluation of how Grant Team has been conducting its grant process  
 * Any concerns/discrepancies uncovered (spent over the budget, etc)  
